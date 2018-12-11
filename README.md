@@ -23,6 +23,9 @@ Une fois installé et actif, ce module présente les caractéristiques suivantes
 
 ## Extracteurs:
 
+###Catdoc
+Used to extract text from DOC and RTF files. Requires [catdoc](https://linux.die.net/man/1/catdoc).
+
 ### Doc2txt
 
 Utilisé pour extraire du texte à partir de fichiers DOCX. Nécessite [doc2txt] (http://docx2txt.sourceforge.net/).
